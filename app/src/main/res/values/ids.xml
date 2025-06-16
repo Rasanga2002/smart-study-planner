@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="titleText" type="id" />
+    <item name="fullName" type="id" />
+    <item name="email" type="id" />
+    <item name="password" type="id" />
+    <item name="confirmPassword" type="id" />
+    <item name="alreadyHaveAccount" type="id" />
+    <item name="textViewPlanTitle" type="id" />
+    <item name="planTitleEditText" type="id" />
+    <item name="textViewSubjects" type="id" />
+    <item name="subjectsEditText" type="id" />
+    <item name="textViewLevel" type="id" />
+    <item name="levelSpinner" type="id" />
+    <item name="textViewDescription" type="id" />
+    <item name="descriptionEditText" type="id" />
+    <item name="button2" type="id" />
+    <item name="textView6" type="id" />
+    <item name="home" type="id" />
+</resources>
